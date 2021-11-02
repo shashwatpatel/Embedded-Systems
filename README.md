@@ -5,6 +5,7 @@
 
 ### [Digital Piano Using DAC](https://github.com/shashwatpatel/Embedded-Systems/tree/main/Digital%20Piano%20Using%20DAC)
 - Create an Embedded System that plays 3 notes representing a digital piano by creating a 4-bit binary weighted DAC
+
 ![image](https://user-images.githubusercontent.com/35824714/139944182-5e62e5c9-4d02-45ac-a146-76e1af23eb4c.png)
 
 ### [Position Meter System Using the ADC and the LCD](https://github.com/shashwatpatel/Embedded-Systems/tree/main/Position%20Meter%20System%20Using%20the%20ADC%20and%20LCD)
